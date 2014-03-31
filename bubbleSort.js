@@ -1,4 +1,4 @@
-// BubbleSort
+// Bubble Sort
 
 var bubbleSort = function (numbers) {
   for (var i = numbers.length - 1; i >= 0; i--) {
